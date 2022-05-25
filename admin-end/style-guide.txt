@@ -1,0 +1,35 @@
+COLOR COMBINATIONS:
+
+color1 : 60% - #fefde5 (bright-shade : #fcfab5)
+color2 : 30% - #caa971 (dull-shade : #d6bc8f,bright-shade : #ba8f45)
+color3 : 10% - #f4e664 (bright-shade : #f2e040)
+color4 : 10% - #74726b
+color5 : 10% - #0e0f0f
+
+Body : color1
+Navbar : color2
+
+Buttons : color2 (disabled : dull-shade, active: bright-shade)
+
+main-font(headings,subheadings) : color5
+small-font (paragraphs) : color4
+
+FONT PROPERTIES :
+
+
+font1 : Raleway(s:Ligth 300,M:Regular 400,B:Medium 500)
+font2 : fredoka (small : Medium 500, medium : semi-bold 600)
+
+Main Headings : font2-medium
+Sub headings : font2-small
+
+paragraphs : font1-m
+light text : font1-s
+Highlights : font1-B
+Lists : font1-m (selected) font1-s (unselected)
+Navigations : font1-B (selected) font1-m (unselected)
+Buttons : font1-B
+
+sample-link : https://preview.themeforest.net/item/stroyka-admin-ecommerce-dashboard-template/full_screen_preview/33436549?_ga=2.35882147.2003330524.1650514815-993691183.1650514815
+
+https://blog.logrocket.com/building-modern-sliders-html-css-swiper/
